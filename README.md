@@ -10,5 +10,5 @@
 - Malino National High School (San Jose Mexico)
 - Elementary (Culubasa Mexico Pampanga)
 ### My Projects
-- Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL]()
+- Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/tree/main/Midterm%20task#readme)
 
