@@ -1,1 +1,4 @@
-
+title: "Kelly Bacus Portfolio!"
+description: "Welcome to my Github portfolio!"
+show_downloads: true
+theme: jekyll-theme-minimal
