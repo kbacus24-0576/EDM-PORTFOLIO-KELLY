@@ -1,8 +1,8 @@
 ## EDM Midterm Lab Task 
-This is my Lab Task Completion
+This is my Lab Task Completion , I learned how to perform raw data cleansing and store the cleaned data on GitHub. Data cleansing is an essential process in data analysis that involves identifying and correcting errors or inconsistencies in raw data, such as missing values, duplicates, or incorrect formatting.
 
 ## About me:
-My name is Kelly Manalastas Bacus
+My name is Kelly Manalastas Bacus. I am passionate about music and its power to connect people. I’ve always been drawn to the creative side of music production and have spent time learning about sound engineering . Outside of my studies, I enjoy experimenting with different musical styles and creating my own beats. I believe music is a universal language, and I’m excited to further develop my skills in this field
 
 ## Language:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
