@@ -15,7 +15,7 @@
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
 ![Raw Data](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Midterm%20task/Image/raw_data.jpeg)
 ## STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Clean Data]()
+![Clean Data](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Midterm%20task/Image/clean_data.jpeg)
 
 **Here's the Physical Data Model*
 ![Raw Model]()
