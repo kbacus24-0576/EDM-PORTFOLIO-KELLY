@@ -18,7 +18,7 @@
 ![Clean Data](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Midterm%20task/Image/clean_data.jpeg)
 
 **Here's the Physical Data Model*
-![Raw Model]()
+![Data Model](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Midterm%20task/Image/Data_Model.png)
 
 
 
