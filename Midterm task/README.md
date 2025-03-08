@@ -13,7 +13,7 @@
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-![Raw Data]()
+![Raw Data](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Midterm%20task/Image/raw_data.jpeg)
 ## STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![Clean Data]()
 
