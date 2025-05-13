@@ -1,4 +1,4 @@
-# Finals Lab Task 1 - Events Management Database (Naythan_DB)
+# Finals Lab Task 1 - Events Management Database
 
 ### Step 1: Database Structure
 
