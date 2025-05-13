@@ -224,5 +224,5 @@ SELECT get_products_by_vendor(21344, 'KY');
 ```
 ## 📄 Task 5 – SQL Copy of the Database and Table Structures
 
-[Download SQL File](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Files/ft5.sql)
+[Download SQL File](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/tree/main/Final%20task%205/Files)
 
