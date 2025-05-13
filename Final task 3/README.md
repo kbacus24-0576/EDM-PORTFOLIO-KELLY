@@ -35,7 +35,7 @@ MODIFY COLUMN product_name VARCHAR(120) NOT NULL;
 ```
 ## Task 3 – Relational Schema for Products Table
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%203/Images/Products_tbl.jpg)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%203/Images/Products_tbl.jpg)
 
 ## 📄 Task 4 – SQL Copy of the Database and Table Structures
 
@@ -71,5 +71,5 @@ DESCRIBE products_tbl;
 ```
 ## Task 5 – SQL File Download
 
-[Download MySQL File](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%203/Files/naythan_products.sql)
+[Download MySQL File](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%203/Files/products.sql)
 
