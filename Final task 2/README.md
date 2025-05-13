@@ -37,18 +37,19 @@ data TEXT,
         ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-INSERT INTO student_tb (username) VALUES ('Naythan'), ('Levy');
+INSERT INTO student_tb (username) 
+VALUES ('Aisha'), ('Carlos');
 
 INSERT INTO assignment_tb (shortname, due_date, url) 
 VALUES 
-('EDM19', '2025-04-21','http://assignments.com/EDM'), 
-('NCMA219', '2025-05-12','http://assignments.com/ncma219');
+('MATH101', '2025-06-01', 'http://assignments.com/math101'), 
+('CS202', '2025-06-15', 'http://assignments.com/cs202');
 
 INSERT INTO submission_tb (username, shortname, version, submit_date, data)
 VALUES
-('Naythan', 'EDM19', 1, '2025-04-21', 'First Submission by Naythan'),
-('Naythan', 'EDM19', 2, '2025-04-21', 'Updated Submission by Naythan'),
-('Levy', 'NCMA219', 1, '2025-05-12', 'Submission by Levy');
+('Aisha', 'MATH101', 1, '2025-05-30', 'First Submission by Aisha'),
+('Aisha', 'MATH101', 2, '2025-05-31', 'Updated Submission by Aisha'),
+('Carlos', 'CS202', 1, '2025-06-14', 'Submission by Carlos');
 ```
 ## Task 3 – ER Diagram or Relational Schema
 
@@ -86,18 +87,19 @@ data TEXT,
         ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-INSERT INTO student_tb (username) VALUES ('Naythan'), ('Levy');
+INSERT INTO student_tb (username) 
+VALUES ('Aisha'), ('Carlos');
 
 INSERT INTO assignment_tb (shortname, due_date, url) 
 VALUES 
-('EDM19', '2025-04-21','http://assignments.com/EDM'), 
-('NCMA219', '2025-05-12','http://assignments.com/ncma219');
+('MATH101', '2025-06-01', 'http://assignments.com/math101'), 
+('CS202', '2025-06-15', 'http://assignments.com/cs202');
 
 INSERT INTO submission_tb (username, shortname, version, submit_date, data)
 VALUES
-('Naythan', 'EDM19', 1, '2025-04-21', 'First Submission by Naythan'),
-('Naythan', 'EDM19', 2, '2025-04-21', 'Updated Submission by Naythan'),
-('Levy', 'NCMA219', 1, '2025-05-12', 'Submission by Levy');
+('Aisha', 'MATH101', 1, '2025-05-30', 'First Submission by Aisha'),
+('Aisha', 'MATH101', 2, '2025-05-31', 'Updated Submission by Aisha'),
+('Carlos', 'CS202', 1, '2025-06-14', 'Submission by Carlos');
 
 SELECT * FROM student_tb;
 
