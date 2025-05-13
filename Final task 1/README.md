@@ -32,7 +32,7 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/tree/main/Final%20task%201/Files)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Images/TABLES.jpg)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
