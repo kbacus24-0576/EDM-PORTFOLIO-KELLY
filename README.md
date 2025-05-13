@@ -1,4 +1,4 @@
-## EDM Midterm Lab Task 
+## EDM Lab Tasks
 This is my Lab Task Completion , I learned how to perform raw data cleansing and store the cleaned data on GitHub. Data cleansing is an essential process in data analysis that involves identifying and correcting errors or inconsistencies in raw data, such as missing values, duplicates, or incorrect formatting.
 
 ## About me:
