@@ -32,11 +32,11 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Images/TABLES.jpg)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/tree/main/Final%20task%201/Files)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Images/ERD.jpg)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Images/ERD.jpg)
 
 ## Database Creation SQL Script
 
@@ -74,6 +74,6 @@ CREATE TABLE IF NOT EXISTS event_sponsors_tbl (
 
 The following raw files are available for download:
 
-- [SQL Script](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Files/naytheen.sql)
+- [SQL Script](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Files/code.sql)
 
-- [ERD File](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%201/Files/naythan.mwb)
+- [ERD File](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Files/erd.mwb)
