@@ -10,7 +10,7 @@ JOIN products p ON v.v_code = p.v_code
 WHERE YEAR(p.p_indate) >= 2002;
 ```
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no1.png)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/Images/no1.png)
 
 View 2: Products priced between 100 and 150
 ```sql
@@ -22,7 +22,7 @@ WHERE p_price BETWEEN 100 AND 150;
 SELECT * FROM view_products_price_100_150;
 ```
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no2.png)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/Images/no2.png)
 
 View 3: Total price of products sold by specific vendors
 ```sql
@@ -35,7 +35,7 @@ WHERE v.v_code IN (21344, 23119, 24288);
 SELECT * FROM view_total_price_by_vendor;
 ```
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no3.png)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/Images/no3.png)
 
 ## Task 2 – Stored Procedure
 Update Vendor Name (with a parameter)
@@ -54,7 +54,7 @@ Execute the procedure:
 CALL update_vendor_name('Bryson,Inc.');
 ```
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no4.png)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/Images/no4.png)
 
 ## Task 3 – Stored Function
 ```sql
@@ -78,7 +78,7 @@ Test the function:
 SELECT get_products_by_vendor(21344, 'KY');
 ```
 
-![Alt Text](https://github.com/NaythanIsME/EDM-Portfolio/blob/main/Finals%20Task%205/Images/no5.png)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/Images/no5.png)
 
 ## Task 4 – Database & Table Creation
 ```sql
