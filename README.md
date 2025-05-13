@@ -14,6 +14,12 @@ My name is Kelly Manalastas Bacus. I am passionate about music and its power to 
 - Malino National High School (San Jose Mexico)
 - Elementary (Culubasa Mexico Pampanga)
 
-## My Projects 👨‍💻
-- Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/tree/main/Midterm%20task#readme)
+## My Projects 
 
+## Finals Lab Tasks – EDM Portfolio by Kelly Bacus
+
+### 1. [Finals Task 1: Events Management Database](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/README.md)  
+### 2. [Finals Task 2: Transforming ER into Relational Tables](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%202/README.md)  
+### 3. [Finals Task 3: Table Manipulation](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%203/README.md)  
+### 4. [Finals Task 4: Employee Databases](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%204/README.md)  
+### 5. [Finals Task 5: SQL Views, Stored Procedures & Functions](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/README.md#finals-task-5--sql-views-stored-procedures--functions)  
