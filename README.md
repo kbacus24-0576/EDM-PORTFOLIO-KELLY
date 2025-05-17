@@ -23,3 +23,4 @@ My name is Kelly Manalastas Bacus. I am passionate about music and its power to 
 ### 3. [Finals Task 3: Table Manipulation](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%203/README.md)  
 ### 4. [Finals Task 4: Employee Databases](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%204/README.md)  
 ### 5. [Finals Task 5: SQL Views, Stored Procedures & Functions](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%205/README.md#finals-task-5--sql-views-stored-procedures--functions)  
+### 6. [Finals Task 6 – MongoDB Practice](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%206/README.md)
