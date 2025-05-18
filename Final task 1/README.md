@@ -32,7 +32,7 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Images/TABLES.jpg)
+![Alt Text](https://github.com/kbacus24-0576/EDM-PORTFOLIO-KELLY/blob/main/Final%20task%201/Images/TABLESs.jpg)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
@@ -41,7 +41,7 @@ CREATE TABLE event_sponsors_tbl (
 ## Database Creation SQL Script
 
 ```sql
-CREATE DATABASE IF NOT EXISTS Naythan_DB;
+CREATE DATABASE IF NOT EXISTS Kelly_DB;
 USE Naythan_DB;
 
 CREATE TABLE IF NOT EXISTS events_tbl (
